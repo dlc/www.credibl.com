@@ -1,1 +1,1 @@
-Store content/README here.
+Store content here.

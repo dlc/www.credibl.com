@@ -1,1 +1,1 @@
-Store templates/README here.
+Store templates here.
