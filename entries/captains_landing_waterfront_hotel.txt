@@ -13,8 +13,10 @@ TAGS: 27960,"captain's landing",hotel,"north carolina",ocracoke
 -----
 BODY:
 <br />
+  <div style="width: 960px; margin: 0 auto;">
       <h0>Captain's Landing Waterfront Hotel</h0>
       <h3>Downtown, Ocracoke, NC</h3>
+ </div>
  <div class="wrapper" style="margin: 50px 0 0 0;">
   <div class="container">
    <div class="content">
