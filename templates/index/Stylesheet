@@ -506,7 +506,7 @@ div.wrapper-top {
     padding: 10px;
     color: #555555;
     list-style: none;
-    margin: 10px 10px 20px 0;
+    margin: 0 10px 20px 0;
     border: 1px solid #CCCCCC;
     }
 
