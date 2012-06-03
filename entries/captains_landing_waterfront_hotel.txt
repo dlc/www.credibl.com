@@ -1,0 +1,87 @@
+AUTHOR: pqc
+TITLE: Captain's Landing
+BASENAME: captains_landing_waterfront_hotel
+STATUS: Publish
+ALLOW COMMENTS: 0
+CONVERT BREAKS: 0
+ALLOW PINGS: 0
+PRIMARY CATEGORY: ocracoke
+CATEGORY: north carolina
+CATEGORY: ocracoke
+DATE: -0/5-/2012 15: 1:8: PM
+TAGS: 27960,"captain's landing",hotel,"north carolina",ocracoke
+-----
+BODY:
+<br />
+      <h0>Captain's Landing Waterfront Hotel</h0>
+      <h3>Downtown, Ocracoke, NC</h3>
+ <div class="wrapper" style="margin: 50px 0 0 0;">
+  <div class="container">
+   <div class="content">
+    <div id="article">
+
+      <p class="summary"><b>Tweetable: </b>"Feels like home in this small, comfortable hotel. Right on the water! Pack groceries and drinks and enjoy the view from your private deck."</p>
+       <img alt="whole_foods.jpg" src="http://dev.credibl.com/images/whole_foods.jpg" width="570" height="380" class="mt-image-none" style="" />
+     <div class="photocredit">Photo courtesy: flickr, &copy; 2012</div>
+     <h2 style="margin: 50px 0 0 0;">Review &raquo;</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante id dolor malesuada bibendum. Fusce convallis pellentesque purus, eu rhoncus nisi laoreet eget. Integer porttitor iaculis ornare. Vestibulum pretium tempus odio, eget adipiscing diam volutpat nec. Mauris justo eros, cursus sed viverra ac, rutrum vel ante. Cras auctor, mauris vitae convallis iaculis, nisl dui imperdiet purus, vitae venenatis ligula arcu sed ligula. Cras non tortor quam, in tristique diam. Praesent purus erat, pharetra id lobortis et, rhoncus ut ligula. Phasellus lacinia ornare mi a semper. Suspendisse tellus lacus, imperdiet in aliquet ac, egestas vel nisi. Sed sollicitudin, ante at mollis tincidunt, mi urna varius erat, vitae dapibus magna mauris at ligula. Integer varius laoreet velit eget consequat.</p>
+
+      <p> Morbi arcu felis, laoreet id elementum in, hendrerit eget leo. Nam sed arcu dui, sed pharetra risus. Proin rhoncus tortor sit amet nibh malesuada malesuada. Sed sapien risus, venenatis a eleifend a, porta ut dui. Maecenas commodo, enim eget imperdiet lacinia, mi ipsum molestie neque, ut vehicula dolor neque sit amet mi. Donec ultricies luctus metus, sed ultricies enim aliquet eu. Donec commodo nisi et massa vulputate euismod. Mauris ligula lacus, mollis vestibulum hendrerit vitae, varius quis lectus.</p>
+
+     <h2>What I Ordered &raquo;</h2>
+      <p>Duis accumsan neque vel risus euismod at facilisis purus ultricies. Nunc neque odio, placerat in consectetur et, suscipit eget dui. Aenean vel felis id tortor tempor convallis. Duis euismod sapien ac justo semper at tempus urna aliquet. Proin accumsan volutpat pellentesque. Nulla facilisi. Fusce tempor hendrerit purus, non rhoncus diam lobortis eu. Nunc eleifend mauris vehicula lorem convallis nec cursus nibh pulvinar. In tincidunt orci in lectus fermentum blandit. Sed augue sapien, tempus sit amet pulvinar ac, tincidunt ut tellus. Aenean augue mi, aliquam et adipiscing ut, posuere quis orci. Ut vestibulum nisi nulla. Nulla venenatis ultrices mi eu gravida. Proin non lectus mi, non suscipit elit. Proin mauris ante, feugiat et bibendum eu, vulputate ac odio. Morbi condimentum ante et massa convallis placerat sollicitudin magna viverra. Nunc fermentum rutrum lorem, quis convallis ipsum laoreet ut. Etiam pretium fermentum augue, id eleifend odio dignissim ut. Cras eros mi, feugiat ut fermentum vitae, fringilla et enim. Nulla ullamcorper cursus libero, commodo suscipit nisi blandit nec.</p>
+
+      <div class="end">
+       <p>&#35;&#35;&#35;</p>
+      </div>
+
+      <h2>Message from the Proprieter &raquo;</h2>
+       <p>Cras egestas facilisis lorem, tempus suscipit massa eleifend quis. Phasellus semper, sapien eu condimentum euismod, dolor tellus ullamcorper quam, nec aliquet lorem diam id augue. Donec quis libero et elit sagittis laoreet et ac massa. Phasellus et suscipit odio.</p>
+
+    </div>
+   </div>
+ <div id="grade">
+     <p class="left">Score: 8/10</p>
+     <p class="right">good choice</p>     
+     <h1>Grade</h1>
+     <p class="letter">B</p>
+     <p class="left">hotel</p>
+     <p class="right">beachfront</p> 
+   </div>
+   <div id="entrysidebar">
+    <h2>Google Map</h2>
+<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=324+Highway+12+Ocracoke,+NC+27960">324 Highway 12, Ocracoke, NC 27960</a>
+   </div>
+   <div id="entrysidebar">
+    <h2>Check-In/Out</h2>
+     <p><b>Check-In:</b> 3:00PM</p>
+     <p><b>Check-Out:</b> 12 Noon</p>
+   </div>
+   <div id="entrysidebar">
+    <h2>Parking</h2>
+     <p></p>
+   </div>
+   <div id="entrysidebar">
+    <h2>Contact</h2>
+     <p><b>Telephone:</b> 252.928.1999 </p>
+     <p><b>Website:</b> <a href="http://www.thecaptainslanding.com">thecaptainslanding.com</a></p>
+  </div>
+   <div id="entrysidebar">
+      <h2>Reviewed by:</h2>
+       <p>Cras egestas facilisis lorem, tempus suscipit massa eleifend quis. Phasellus semper, sapien eu condimentum euismod, dolor tellus ullamcorper quam, nec aliquet lorem diam id augue. Donec quis libero et elit sagittis laoreet et ac massa. Phasellus et suscipit odio.</p>
+   </div>
+
+ </div>   <br class="clear" />
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+"Feels like home in this small, comfortable hotel. Right on the water! Pack groceries and drinks and enjoy the view from your private deck."
+-----
+KEYWORDS:
+
+-----
+
+
+--------
