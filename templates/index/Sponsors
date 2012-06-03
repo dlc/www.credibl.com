@@ -1,0 +1,45 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+
+<head profile="http://gmpg.org/xfn/11">
+ <title>CREDibl.com | consumer reviews for busy consumers | sponsor your listing</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta http-equiv="imagetoolbar" content="no" />
+ <link rel="stylesheet" href="styles.css" type="text/css" />
+ <link rel="shortcut icon" href="favicon.ico" />
+ <$mt:Include module="Google Analytics"$>
+</head>
+
+<body> 
+ <$mt:Include module="Nav Bar"$>
+ <br />
+ <div class="wrapper" style="margin: 25px 0 0 0;">
+  <div class="container">
+   <div class="content">
+    <div id="article">
+     <h0>Sponsor your listing!</h0>
+  <p><em>CREDibl.com</em> offers a unique marketing opportunity for your businesses and products. We feature high-quality, objective, and easy-to-read reviews from real users. We carefully screen every review and comment posted to our website and we publish only those which meet our strict criteria. Although no user-generated website can guarantee the accuracy or veracity of every review posted to it, we believe that our unique system offers the most accurate and reliable reviews on-line.</p>
+  <p>If you like our system and would like to support our service please consider sponsoring your listing on <em>CREDibl.com</em>. Sponsored listings may include:</p>
+   <ul style="list-style-type:square;">
+    <li>&bull; Full-color photographs</li>
+    <li>&bull; Video messages from you</li>
+    <li>&bull; Your company's logo</li>
+    <li>&bull; Your company's slogan</li>
+    <li>&bull; Menus, coupons or other media!</li>
+   </ul>
+  <p>And selected sponsors will be featured on <em>CREDibl.com</em>'s front page, reaching more readers than other listings! If you'd like to learn more about sponsoring your listing on <em>CREDibl.com</em> please <a href="/contact.html">contact us</a> immediately! Thank you for your interest.</p>
+    <div class="end">
+     <p>&#35;&#35;&#35;</p>
+    </div>
+   </div>
+  </div>
+  <div id="entrysidebar" style="margin: 50px 0 0 0;">
+   <h2>Did you know?</h2>
+   <p>Any business can sponsor its listing on <em>CREDibl.com</em> but sponsorship will not affect your company's or product's grade.</p>
+   <p>Your customers <em>love</em> video and photos! Consumers respond quickly to visual media. Don't miss this opportunity to reach your customers!</p>
+   <p>Just like we verify many reviews and comments our users submit we may also scrutinize our sponsors' input.</p>
+   <p>View a sample <a href="/test.php">sponsored</a> listing by clicking here</p>
+  </div>
+ </div>  <br class="clear" />
+  </div> 
+<$mt:Include module="Copy Bar"$>
