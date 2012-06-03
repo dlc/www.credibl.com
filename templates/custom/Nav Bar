@@ -1,0 +1,14 @@
+  <div class="wrapper-top">
+  <div id="topline">
+   <div class="fl_left">
+    <div class="pagetitle"><a href="<$mt:BlogURL$>">CREDibl<small>.com</small></a></div>
+   </div>
+   <ul>
+    <li><a href="register.html">Join Now</a></li>
+    <li><a href="signin.html">Sign In</a></li>
+    <li><a href="about.html">About Us</a></li>
+    <li class="last"><a href="contact.html">Contact Us</a></li>
+   </ul>
+   <br class="clear" />
+  </div>
+ </div>
