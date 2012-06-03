@@ -1,0 +1,54 @@
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+
+<head profile="http://gmpg.org/xfn/11">
+ <title>CREDibl.com | consumer reviews for busy consumers | sign in</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta http-equiv="imagetoolbar" content="no" />
+ <link rel="stylesheet" href="styles.css" type="text/css" />
+ <link rel="shortcut icon" href="favicon.ico" />
+ <$mt:Include module="Google Analytics"$>
+</head>
+<body> 
+
+<$mt:Include module="Nav Bar"$>
+
+<div class="widget-search widget">
+    <h3 class="widget-header">Search</h3>
+    <div class="widget-content">
+        <form method="get" action="<$mt:CGIPath$><$mt:SearchScript$>">
+            <input type="text" id="search" class="ti" name="search" value="<$mt:SearchString$>" />
+<mt:If name="search_results">
+            <input type="hidden" name="IncludeBlogs" value="<$mt:SearchIncludeBlogs$>" />
+            <mt:Ignore>
+            <!-- use these options only with MT::App::Search::Legacy -->
+            <ul class="search-options">
+                <li><input type="checkbox" name="CaseSearch" /> Case sensitive</li>
+                <li><input type="checkbox" name="RegexSearch" /> Regex search</li>
+            </ul>
+            </mt:Ignore>
+<mt:Else>
+            <input type="hidden" name="IncludeBlogs" value="<$mt:BlogID$>" />
+</mt:If>
+            <input type="hidden" name="limit" value="<$mt:SearchMaxResults$>" />
+            <input type="submit" accesskey="4" value="Search" />
+        </form>
+    </div>
+</div>
+<mt:If name="search_results">
+    <mt:IfTagSearch>
+<div class="widget-tags widget">
+    <h3 class="widget-header">Tags</h3>
+    <div class="widget-content">
+        <ul>
+        <mt:Tags>
+            <li><a href="javascript:void(0)" onclick="location.href='<$mt:TagSearchLink encode_js="1"$>';return false;"><$mt:TagName$> (<$mt:TagCount$>)</a></li>
+        </mt:Tags>
+        </ul>
+    </div>
+</div>
+    </mt:IfTagSearch>
+</mt:If>
+
+
+<$mt:Include module="Copy Bar"$>
