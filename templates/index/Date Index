@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="EN" lang="EN" dir="ltr">
+
+<head profile="http://gmpg.org/xfn/11">
+ <title>CREDibl.com | consumer reviews for busy consumers | date index</title>
+ <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+ <meta http-equiv="imagetoolbar" content="no" />
+ <link rel="stylesheet" href="styles.css" type="text/css" />
+ <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="<$mt:Link template="feed_recent"$>" />
+ <script type="text/javascript" src="<$mt:Link template="javascript"$>"></script>
+ <link rel="shortcut icon" href="favicon.ico" />
+ <$mt:Include module="Google Analytics"$>
+</head>
+
+<body id="<$mt:BlogTemplateSetID$>" class="mt-archive-index <$mt:Var name="page_layout"$>">
+ <$mt:Include module="Nav Bar"$>
+ <div class="wrapper" style="margin: 25px 0 0 0;">
+  <div class="container">
+   <div class="content">
+    <div id="article">
+<mt:Ignore>
+    <!-- List of monthly archives, if monthly archives are enabled -->
+</mt:Ignore>
+<mt:IfArchiveTypeEnabled archive_type="Monthly">
+                            <div class="archive-monthly archive-date-based archive">
+    <mt:ArchiveList archive_type="Monthly">
+        <mt:ArchiveListHeader>
+                                <h2 class="archive-header">Monthly Archives</h2>
+                                <div class="archive-content">
+                                    <ul>
+        </mt:ArchiveListHeader>
+                                        <li><a href="<$mt:ArchiveLink$>"><$mt:ArchiveTitle$></a></li>
+        <mt:ArchiveListFooter>
+                                    </ul>
+                                </div>
+        </mt:ArchiveListFooter>
+    </mt:ArchiveList>
+                            </div>
+</mt:IfArchiveTypeEnabled>
+    </div>
+   </div>
+  </div>  <br class="clear" />
+ </div>
+ <$mt:Include module="Copy Bar"$>
