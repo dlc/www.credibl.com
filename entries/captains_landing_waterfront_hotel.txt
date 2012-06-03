@@ -13,15 +13,14 @@ TAGS: 27960,"captain's landing",hotel,"north carolina",ocracoke
 -----
 BODY:
 <br />
-  <div style="width: 960px; margin: 0 auto;">
+  <div style="width: 960px; margin: 20px auto;">
       <h0>Captain's Landing Waterfront Hotel & Suites</h0>
       <h3>Downtown, Ocracoke, NC</h3>
  </div>
- <div class="wrapper" style="margin: 50px 0 0 0;">
+ <div class="wrapper">
   <div class="container">
    <div class="content">
     <div id="article">
-
       <p class="summary"><b>Tweetable: </b>"Feels like home in this small, comfortable hotel. Right on the water! Pack groceries and drinks and enjoy the view from your private deck."</p>
        <img alt="whole_foods.jpg" src="http://dev.credibl.com/images/whole_foods.jpg" width="570" height="380" class="mt-image-none" style="" />
      <div class="photocredit">Photo courtesy: flickr, &copy; 2012</div>
