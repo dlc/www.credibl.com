@@ -1,0 +1,24 @@
+AUTHOR: dlc
+TITLE: I Like Cake
+BASENAME: i_like_cake
+STATUS: Draft
+ALLOW COMMENTS: 0
+CONVERT BREAKS: 0
+ALLOW PINGS: 0
+DATE: -0/6-/2012 06: 1:0: AM
+-----
+BODY:
+Wonderful cake.
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
