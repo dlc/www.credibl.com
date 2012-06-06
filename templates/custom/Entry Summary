@@ -1,8 +1,8 @@
  <div id="article">
   <h2><a href="<$mt:EntryPermalink$>" rel="bookmark"><$mt:EntryTitle$></a></h2>
    <p class="summary">
-    <$mt:EntryExcerpt$>... 
-     <a href="<$mt:EntryPermalink$>" rel="bookmark">Read more &raquo;</a>
+    <$mt:EntryExcerpt$>  
+     <a href="<$mt:EntryPermalink$>" rel="bookmark">read more &raquo;</a>
    </p>
    <div class="asset-content entry-content">
    <mt:If name="entry_archive">
