@@ -5,6 +5,8 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: Florida
+CATEGORY: Florida
 DATE: -0/6-/2012 06: 1:4: AM
 TAGS: 33511,brandon,chinese,florida,food
 -----
@@ -42,7 +44,7 @@ BODY:
      <p class="left">Score: X/10</p>
      <p class="right">Best in Class</p>     
      <h1>Grade</h1>
-     <p class="letter">X</p>
+     <p class="letter">B</p>
      <p class="left">casual dining</p>
      <p class="right">burgers &amp; beer</p> 
    </div>
