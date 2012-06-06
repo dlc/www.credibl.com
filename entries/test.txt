@@ -15,11 +15,13 @@ TAGS: 02139,cambridge,"casual dining","central square",hamburgers,massachusetts
 BODY:
 <br />
  <div class="wrapper" style="margin: 50px 0 0 0;">
+  <div style="margin: 20px auto;">
+      <h0>Captain's Landing Waterfront Hotel & Suites</h0>
+      <h3>Downtown, Ocracoke, NC</h3>
+ </div>
   <div class="container">
    <div class="content">
     <div id="article">
-      <h0>Four Burgers</h0>
-      <h3>| Central Square, Cambridge, MA |</h3>
       <p class="summary"><b>Tweetable: </b>"Omnivores rejoice! Our favorite: grass-fed beef with blue cheese. Trade the bun for a salad, and treat yourself with a handmade milk shake."</p>
      <img src="http://dev.credibl.com/images/four_burgers.jpg" alt="Four Burgers meal" width="570" height="380" />
      <div class="photocredit">Photo courtesy: PQ Cohen, &copy; 2012</div>
