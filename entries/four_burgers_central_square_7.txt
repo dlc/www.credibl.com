@@ -14,16 +14,18 @@ TAGS: 02139,cambridge,"casual dining","central square",hamburgers,massachusetts
 -----
 BODY:
 <br />
- <div class="wrapper" style="margin: 50px 0 0 0;">
+ <div class="wrapper">
   <div class="container">
+   <div class="reviewtitle">
+    <h0>Four Burgers</h0>
+    <h3>Central Square, Cambridge, MA</h3>
+   </div>
    <div class="content">
     <div id="article">
-      <h0>Four Burgers</h0>
-      <h3>| Central Square, Cambridge, MA |</h3>
-      <p class="summary"><b>Tweetable: </b>"Omnivores rejoice! Our favorite: grass-fed beef with blue cheese. Trade the bun for a salad, and treat yourself with a handmade milk shake."</p>
      <img src="http://dev.credibl.com/images/four_burgers.jpg" alt="Four Burgers meal" width="570" height="380" />
      <div class="photocredit">Photo courtesy: PQ Cohen, &copy; 2012</div>
-     <h2 style="margin: 50px 0 0 0;">Review &raquo;</h2>
+      <p class="summary"><b>Tweetable: </b>"Omnivores rejoice! Our favorite: grass-fed beef with blue cheese. Trade the bun for a salad, and treat yourself with a handmade milk shake."</p>
+     <h2 class="first">Review &raquo;</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante id dolor malesuada bibendum. Fusce convallis pellentesque purus, eu rhoncus nisi laoreet eget. Integer porttitor iaculis ornare. Vestibulum pretium tempus odio, eget adipiscing diam volutpat nec. Mauris justo eros, cursus sed viverra ac, rutrum vel ante. Cras auctor, mauris vitae convallis iaculis, nisl dui imperdiet purus, vitae venenatis ligula arcu sed ligula. Cras non tortor quam, in tristique diam. Praesent purus erat, pharetra id lobortis et, rhoncus ut ligula. Phasellus lacinia ornare mi a semper. Suspendisse tellus lacus, imperdiet in aliquet ac, egestas vel nisi. Sed sollicitudin, ante at mollis tincidunt, mi urna varius erat, vitae dapibus magna mauris at ligula. Integer varius laoreet velit eget consequat.</p>
 
       <p> Morbi arcu felis, laoreet id elementum in, hendrerit eget leo. Nam sed arcu dui, sed pharetra risus. Proin rhoncus tortor sit amet nibh malesuada malesuada. Sed sapien risus, venenatis a eleifend a, porta ut dui. Maecenas commodo, enim eget imperdiet lacinia, mi ipsum molestie neque, ut vehicula dolor neque sit amet mi. Donec ultricies luctus metus, sed ultricies enim aliquet eu. Donec commodo nisi et massa vulputate euismod. Mauris ligula lacus, mollis vestibulum hendrerit vitae, varius quis lectus.</p>
