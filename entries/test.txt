@@ -13,7 +13,7 @@ DATE: -0/5-/2012 09: 2:2: PM
 -----
 BODY:
 <br />
- <div class="wrapper" style="margin: 50px 0 0 0;">
+ <div class="wrapper">
   <div class="container">
    <div class="reviewtitle">
     <h0>This is the Template. It is 960px wide.</h0>
