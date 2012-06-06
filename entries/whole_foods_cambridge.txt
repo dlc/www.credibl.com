@@ -14,7 +14,7 @@ TAGS: 02139,cambridge,"central square","grocery store",massachusetts,"whole food
 -----
 BODY:
 <br />
- <div class="wrapper" style="margin: 50px 0 0 0;">
+ <div class="wrapper">
   <div class="container">
    <div class="reviewtitle">
     <h0>Whole Foods</h0>
