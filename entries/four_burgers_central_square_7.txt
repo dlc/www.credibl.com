@@ -1,10 +1,14 @@
 AUTHOR: pqc
 TITLE: Four Burgers (Central Square)
 BASENAME: four_burgers_central_square_7
-STATUS: Draft
+STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: central square
+CATEGORY: cambridge
+CATEGORY: central square
+CATEGORY: massachusetts
 DATE: -0/6-/2012 06: 1:0: AM
 TAGS: 02139,cambridge,"casual dining","central square",hamburgers,massachusetts
 -----
