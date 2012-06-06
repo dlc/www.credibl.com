@@ -16,7 +16,7 @@ BODY:
  <div class="wrapper" style="margin: 50px 0 0 0;">
   <div class="container">
   <div style="margin: 20px auto;">
-      <h0>This is the Template. It holds XX Characters Before Wrapping</h0>
+      <h0>This is the Template. It is 960px wide.</h0>
       <h3>Neighborhood, City, State</h3>
  </div>
    <div class="content">
@@ -51,7 +51,7 @@ BODY:
    </div>
    <div id="entrysidebar">
     <h2>Google Map</h2>
-<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=704+Massachusetts+Avenue+Cambridge,+MA+02139">704 Massachusetts Avenue (Central Square) Cambridge, Massachusetts 02139</a>
+<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=123+Street+Name+City,+ST+000000">address</a>
    </div>
    <div id="entrysidebar">
     <h2>Hours</h2>
