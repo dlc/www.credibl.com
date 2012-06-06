@@ -1,5 +1,5 @@
 AUTHOR: pqc
-TITLE: Captain's Landing
+TITLE: Captain's Landing Waterfront Hotel & Suites
 BASENAME: captains_landing_waterfront_hotel
 STATUS: Publish
 ALLOW COMMENTS: 0
@@ -13,12 +13,12 @@ TAGS: 27960,"captain's landing",hotel,"north carolina",ocracoke
 -----
 BODY:
 <br />
-  <div style="width: 960px; margin: 20px auto;">
-      <h0>Captain's Landing Waterfront Hotel & Suites</h0>
-      <h3>Downtown, Ocracoke, NC</h3>
- </div>
  <div class="wrapper">
   <div class="container">
+   <div class="reviewtitle">
+    <h0>Captain's Landing Waterfront Hotel & Suites</h0>
+    <h3>Downtown, Ocracoke, NC</h3>
+   </div>
    <div class="content">
     <div id="article">
        <img alt="whole_foods.jpg" src="http://dev.credibl.com/images/whole_foods.jpg" width="570" height="380" class="mt-image-none" style="" />
