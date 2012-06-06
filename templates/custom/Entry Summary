@@ -1,0 +1,28 @@
+ <div id="article">
+  <h2><a href="<$mt:EntryPermalink$>" rel="bookmark"><$mt:EntryTitle$></a></h2>
+   <p class="summary">
+    <$mt:EntryExcerpt$>... 
+     <a href="<$mt:EntryPermalink$>" rel="bookmark">Read more &raquo;</a>
+   </p>
+   <div class="asset-content entry-content">
+   <mt:If name="entry_archive">
+    <mt:EntryIfTagged>
+     <div class="entry-tags">
+      <h4>Tags<span class="delimiter">:</span></h4>
+       <ul>
+        <li>
+         <mt:EntryTags glue='<span class="delimiter">,</span></li> <li>'>
+          <a href="javascript:void(0)" onclick="location.href='<$mt:TagSearchLink encode_js="1"$>';return false;" rel="tag"><$mt:TagName$></a>
+         </mt:EntryTags>
+        </li>
+       </ul>
+     </div>
+    </mt:EntryIfTagged>
+   </mt:If>
+   <mt:If tag="EntryMore" convert_breaks="0">
+    <div class="asset-more-link">
+    </div>
+   </mt:If>
+  </div>
+  <div class="asset-footer"></div>
+ </div>
