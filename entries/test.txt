@@ -21,7 +21,7 @@ BODY:
    </div>
    <div class="content">
     <div id="article">
-     <img src="http://dev.credibl.com/images/four_burgers.jpg" alt="Four Burgers meal" width="570" height="380" />
+       <img alt="template.png" src="http://dev.credibl.com/images/template.png" width="570" height="380" class="mt-image-none" style="" />
      <div class="photocredit">Photo courtesy: Name, &copy; Year</div>
       <p class="summary"><b>Tweetable: </b>"This is the template. This is only a template."</p>
      <h2 class="first">Review &raquo;</h2>
