@@ -10,7 +10,6 @@ CATEGORY: cambridge
 CATEGORY: central square
 CATEGORY: massachusetts
 DATE: -0/5-/2012 09: 2:2: PM
-TAGS: 02139,cambridge,"casual dining","central square",hamburgers,massachusetts
 -----
 BODY:
 <br />
@@ -22,9 +21,9 @@ BODY:
   <div class="container">
    <div class="content">
     <div id="article">
-      <p class="summary"><b>Tweetable: </b>"Omnivores rejoice! Our favorite: grass-fed beef with blue cheese. Trade the bun for a salad, and treat yourself with a handmade milk shake."</p>
      <img src="http://dev.credibl.com/images/four_burgers.jpg" alt="Four Burgers meal" width="570" height="380" />
      <div class="photocredit">Photo courtesy: PQ Cohen, &copy; 2012</div>
+      <p class="summary"><b>Tweetable: </b>"This is the template. This is only a template."</p>
      <h2 style="margin: 50px 0 0 0;">Review &raquo;</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante id dolor malesuada bibendum. Fusce convallis pellentesque purus, eu rhoncus nisi laoreet eget. Integer porttitor iaculis ornare. Vestibulum pretium tempus odio, eget adipiscing diam volutpat nec. Mauris justo eros, cursus sed viverra ac, rutrum vel ante. Cras auctor, mauris vitae convallis iaculis, nisl dui imperdiet purus, vitae venenatis ligula arcu sed ligula. Cras non tortor quam, in tristique diam. Praesent purus erat, pharetra id lobortis et, rhoncus ut ligula. Phasellus lacinia ornare mi a semper. Suspendisse tellus lacus, imperdiet in aliquet ac, egestas vel nisi. Sed sollicitudin, ante at mollis tincidunt, mi urna varius erat, vitae dapibus magna mauris at ligula. Integer varius laoreet velit eget consequat.</p>
 
@@ -81,7 +80,7 @@ EXTENDED BODY:
 
 -----
 EXCERPT:
-"Omnivores rejoice! Our favorite: grass-fed beef with blue cheese. Trade the bun for a salad, and treat yourself with a handmade milk shake."
+"This is the template. This is only a template."
 -----
 KEYWORDS:
 
