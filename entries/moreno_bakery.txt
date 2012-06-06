@@ -5,7 +5,8 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
-PRIMARY CATEGORY: Florida
+PRIMARY CATEGORY: Brandon
+CATEGORY: Brandon
 CATEGORY: Florida
 DATE: -0/6-/2012 06: 1:5: AM
 TAGS: 33511,bakery,brandon,florida,food
@@ -55,8 +56,8 @@ BODY:
      <p>Tuesday: 7:30AM - 7:00PM</p>
      <p>Wednesday: 7:30AM - 7:00PM</p>
      <p>Thursday: 7:30AM - 7:00PM</p>
-     <p>Friday: 7:30AM - 5:00PM</p>
-     <p>Saturday: 11:00AM - 11:00PM</p>
+     <p>Friday: 7:30AM - 7:00PM</p>
+     <p>Saturday: 7:30AM - 5:00PM</p>
      <p>Sunday: closed</p>
    </div>
    <div id="entrysidebar">
