@@ -13,7 +13,7 @@ TAGS: 90071,california,downtown,hotel,"los angeles",westin
 -----
 BODY:
 <br />
- <div class="wrapper" style="margin: 50px 0 0 0;">
+ <div class="wrapper">
   <div class="container">
    <div class="reviewtitle">
     <h0>The Westin Bonaventure</h0>
