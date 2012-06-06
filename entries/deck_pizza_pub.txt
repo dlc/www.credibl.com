@@ -1,10 +1,14 @@
 AUTHOR: pqc
 TITLE: Deck Pizza & Pub
 BASENAME: deck_pizza_pub
-STATUS: Draft
+STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: South Tampa
+CATEGORY: Florida
+CATEGORY: South Tampa
+CATEGORY: Tampa
 DATE: -0/6-/2012 06: 1:5: AM
 TAGS: 33606,florida,food,pizza,"south tampa",tampa
 -----
