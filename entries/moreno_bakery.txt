@@ -5,6 +5,8 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: Florida
+CATEGORY: Florida
 DATE: -0/6-/2012 06: 1:5: AM
 TAGS: 33511,bakery,brandon,florida,food
 -----
@@ -28,14 +30,11 @@ BODY:
 
      <h2>What I Ordered &raquo;</h2>
       <p>Duis accumsan neque vel risus euismod at facilisis purus ultricies. Nunc neque odio, placerat in consectetur et, suscipit eget dui. Aenean vel felis id tortor tempor convallis. Duis euismod sapien ac justo semper at tempus urna aliquet. Proin accumsan volutpat pellentesque. Nulla facilisi. Fusce tempor hendrerit purus, non rhoncus diam lobortis eu. Nunc eleifend mauris vehicula lorem convallis nec cursus nibh pulvinar. In tincidunt orci in lectus fermentum blandit. Sed augue sapien, tempus sit amet pulvinar ac, tincidunt ut tellus. Aenean augue mi, aliquam et adipiscing ut, posuere quis orci. Ut vestibulum nisi nulla. Nulla venenatis ultrices mi eu gravida. Proin non lectus mi, non suscipit elit. Proin mauris ante, feugiat et bibendum eu, vulputate ac odio. Morbi condimentum ante et massa convallis placerat sollicitudin magna viverra. Nunc fermentum rutrum lorem, quis convallis ipsum laoreet ut. Etiam pretium fermentum augue, id eleifend odio dignissim ut. Cras eros mi, feugiat ut fermentum vitae, fringilla et enim. Nulla ullamcorper cursus libero, commodo suscipit nisi blandit nec.</p>
-
       <div class="end">
        <p>&#35;&#35;&#35;</p>
       </div>
-
       <h2>Message from the Proprieter &raquo;</h2>
        <p>Cras egestas facilisis lorem, tempus suscipit massa eleifend quis. Phasellus semper, sapien eu condimentum euismod, dolor tellus ullamcorper quam, nec aliquet lorem diam id augue. Donec quis libero et elit sagittis laoreet et ac massa. Phasellus et suscipit odio.</p>
-
     </div>
    </div>
  <div id="grade">
