@@ -22,7 +22,7 @@ BODY:
     <div id="article">
        <img alt="template.png" src="http://dev.credibl.com/images/template.png" width="570" height="380" class="mt-image-none" style="" />
      <div class="photocredit">Photo courtesy: Name, &copy; Year</div>
-      <p class="summary"><b>Tweetable: </b>"This is the template. This is only a template."</p>
+      <p class="summary"><b>Tweetable: </b>"This is the excerpt."</p>
      <h2>Review &raquo;</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante id dolor malesuada bibendum. Fusce convallis pellentesque purus, eu rhoncus nisi laoreet eget. Integer porttitor iaculis ornare. Vestibulum pretium tempus odio, eget adipiscing diam volutpat nec. Mauris justo eros, cursus sed viverra ac, rutrum vel ante. Cras auctor, mauris vitae convallis iaculis, nisl dui imperdiet purus, vitae venenatis ligula arcu sed ligula. Cras non tortor quam, in tristique diam. Praesent purus erat, pharetra id lobortis et, rhoncus ut ligula. Phasellus lacinia ornare mi a semper. Suspendisse tellus lacus, imperdiet in aliquet ac, egestas vel nisi. Sed sollicitudin, ante at mollis tincidunt, mi urna varius erat, vitae dapibus magna mauris at ligula. Integer varius laoreet velit eget consequat.</p>
 
@@ -76,7 +76,7 @@ EXTENDED BODY:
 
 -----
 EXCERPT:
-
+"This is the excerpt."
 -----
 KEYWORDS:
 
