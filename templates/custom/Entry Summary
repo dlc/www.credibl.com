@@ -2,7 +2,7 @@
   <h2><a href="<$mt:EntryPermalink$>" rel="bookmark"><$mt:EntryTitle$></a></h2>
    <p class="summary">
     <$mt:EntryExcerpt$>  
-     <a href="<$mt:EntryPermalink$>" rel="bookmark" style="font-weight: normal">read more &raquo;</a>
+     <a href="<$mt:EntryPermalink$>" rel="bookmark" style="font-weight: normal; float: right;">read more &raquo;</a>
    </p>
    <div class="asset-content entry-content">
    <mt:If name="entry_archive">
