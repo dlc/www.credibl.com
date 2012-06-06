@@ -1,7 +1,7 @@
 AUTHOR: pqc
 TITLE: Moreno Bakery
 BASENAME: moreno_bakery
-STATUS: Draft
+STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
