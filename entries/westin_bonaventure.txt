@@ -21,7 +21,7 @@ BODY:
    </div>
    <div class="content">
     <div id="article">
-      <img alt="whole_foods.jpg" src="http://dev.credibl.com/images/whole_foods.jpg" width="570" height="380" class="mt-image-none" style="" />
+       <img alt="template.png" src="http://dev.credibl.com/images/template.png" width="570" height="380" class="mt-image-none" style="" />
      <div class="photocredit">Photo courtesy: flickr, &copy; 2012</div>
      <p class="summary"><b>Tweetable: </b>"Location is great, amazing view. Rooms are an odd triangle shape, but comfortable. Parking extra; free Wi-Fi at the pool and in the lobby."</p>
      <h2>Review &raquo;</h2>
