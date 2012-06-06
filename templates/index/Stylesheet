@@ -18,6 +18,13 @@ h0 {
     font-family: Georgia, "Times New Roman", Times, serif;
     }
 
+
+
+h0 .reviewtitle {
+    width: 960px;
+    margin: 20px auto;
+    }
+
 h1 {
     padding: 0;
     color: #6495ED;
