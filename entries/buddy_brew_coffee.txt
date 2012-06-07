@@ -61,7 +61,7 @@ BODY:
      <p>Thursday: 7:00AM - 5:00PM</p>
      <p>Friday: 7:00AM - 5:00PM</p>
      <p>Saturday: 7:00AM - 5:00PM</p>
-     <p>Sunday: 8:00AM- 4:00PM</p>
+     <p>Sunday: 8:00AM - 4:00PM</p>
    </div>
    <div id="entrysidebar">
     <h2>Contact</h2>
