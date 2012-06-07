@@ -67,7 +67,7 @@ BODY:
     <h2>Contact</h2>
      <p><b>Telephone:</b> 813.258.2739</p>
      <p><b>Website:</b> <a href="http://buddybrew.com">buddybrew.com</a></p>
-     <p><b>Facebook:</b> <a href="facebook.com/BuddyBrewCoffee">facebook.com/BuddyBrewCoffee</a></p>
+     <p><b>Facebook:</b> <a href="http://facebook.com/BuddyBrewCoffee">facebook.com/BuddyBrewCoffee</a></p>
   </div>
    <div id="entrysidebar">
       <h2>Reviewed by:</h2>
