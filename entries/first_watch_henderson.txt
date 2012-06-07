@@ -52,7 +52,7 @@ BODY:
    </div>
    <div id="entrysidebar">
     <h2>Google Map</h2>
-<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=3712+Henderson+Boulevard+Tampa,+FL+33609">3712 Henderson BoulevardTampa, FL 33609</a>
+<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=3712+Henderson+Boulevard+Tampa,+FL+33609">3712 Henderson Boulevard Tampa, FL 33609</a>
    </div>
    <div id="entrysidebar">
     <h2>Hours</h2>
