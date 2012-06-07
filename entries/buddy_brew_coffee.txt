@@ -5,6 +5,9 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: Florida
+CATEGORY: Florida
+CATEGORY: Tampa
 DATE: -0/6-/2012 07: 1:2: AM
 TAGS: 33606,"buddy brew",coffee,florida,"hyde park",tampa
 -----
@@ -20,7 +23,7 @@ BODY:
     <div id="article">
        <img alt="template.png" src="http://dev.credibl.com/images/template.png" width="570" height="380" class="mt-image-none" style="" />
      <div class="photocredit">Photo courtesy: Name, &copy; Year</div>
-      <p class="summary"><b>Tweetable: </b>"This is the template. This is only a template."</p>
+      <p class="summary"><b>Tweetable: </b>"Buddy Brew Coffee in Tampa: fair prices, great coffee. Love the layout; feels more like a friend's loft than a store. Better than Starbucks."</p>
      <h2>Review &raquo;</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac ante id dolor malesuada bibendum. Fusce convallis pellentesque purus, eu rhoncus nisi laoreet eget. Integer porttitor iaculis ornare. Vestibulum pretium tempus odio, eget adipiscing diam volutpat nec. Mauris justo eros, cursus sed viverra ac, rutrum vel ante. Cras auctor, mauris vitae convallis iaculis, nisl dui imperdiet purus, vitae venenatis ligula arcu sed ligula. Cras non tortor quam, in tristique diam. Praesent purus erat, pharetra id lobortis et, rhoncus ut ligula. Phasellus lacinia ornare mi a semper. Suspendisse tellus lacus, imperdiet in aliquet ac, egestas vel nisi. Sed sollicitudin, ante at mollis tincidunt, mi urna varius erat, vitae dapibus magna mauris at ligula. Integer varius laoreet velit eget consequat.</p>
 
@@ -48,23 +51,23 @@ BODY:
    </div>
    <div id="entrysidebar">
     <h2>Google Map</h2>
-<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=123+Street+Name+City,+ST+000000">address</a>
+<a href="http://maps.google.com/maps?f=d&hl=en&geocode=&time=&date=&ttype=&saddr=&daddr=2020+West+Kennedy+Boulevard+Tampa,+FL+33606">2020 West Kennedy Boulevard Tampa, FL 33606</a>
    </div>
    <div id="entrysidebar">
     <h2>Hours</h2>
-     <p>Monday: X:00AM - X:00PM</p>
-     <p>Tuesday: X:00AM - X:00PM</p>
-     <p>Wednesday: X:00AM - X:00PM</p>
-     <p>Thursday: X:00AM - X:00PM</p>
-     <p>Friday: X:00AM - X:00PM</p>
-     <p>Saturday: X:00AM - X:00PM</p>
-     <p>Sunday: X:00AM- X:00PM</p>
+     <p>Monday: 7:00AM - 5:00PM</p>
+     <p>Tuesday: 7:00AM - 5:00PM</p>
+     <p>Wednesday: 7:00AM - 5:00PM</p>
+     <p>Thursday: 7:00AM - 5:00PM</p>
+     <p>Friday: 7:00AM - 5:00PM</p>
+     <p>Saturday: 7:00AM - 5:00PM</p>
+     <p>Sunday: 8:00AM- 4:00PM</p>
    </div>
    <div id="entrysidebar">
     <h2>Contact</h2>
-     <p><b>Telephone:</b> xxx.xxx.xxxx</p>
-     <p><b>Website:</b> <a href="/">foo.com</a></p>
-     <p><b>Facebook:</b> <a href="/">facebook.com/foo</a></p>
+     <p><b>Telephone:</b> 813.258.2739</p>
+     <p><b>Website:</b> <a href="http://buddybrew.com">buddybrew.com</a></p>
+     <p><b>Facebook:</b> <a href="facebook.com/BuddyBrewCoffee">facebook.com/BuddyBrewCoffee</a></p>
   </div>
    <div id="entrysidebar">
       <h2>Reviewed by:</h2>
@@ -77,7 +80,7 @@ EXTENDED BODY:
 
 -----
 EXCERPT:
-
+"Buddy Brew Coffee in Tampa: fair prices, great coffee. Love the layout; feels more like a friend's loft than a store. Better than Starbucks."
 -----
 KEYWORDS:
 
