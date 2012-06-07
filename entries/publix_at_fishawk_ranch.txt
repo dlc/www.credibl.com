@@ -66,7 +66,7 @@ BODY:
     <h2>Contact</h2>
      <p><b>Telephone:</b> 813.655.5646</p>
      <p><b>Website:</b> <a href="http://www.publix.com">publix.com</a></p>
-     <p><b>Facebook:</b> <a href="http//:www.facebook.com">facebook.com/publix</a></p>
+     <p><b>Facebook:</b> <a href="http://facebook.com/publix">facebook.com/publix</a></p>
   </div>
    <div id="entrysidebar">
       <h2>Reviewed by:</h2>
