@@ -63,7 +63,7 @@ BODY:
    <div id="entrysidebar">
     <h2>Contact</h2>
      <p><b>Telephone:</b> 813.689.0320</p>
-     <p><b>Website:</b> <a href="http://morenobakery.com</a>morenobakery.com</a></p>
+     <p><b>Website:</b> <a href="http://morenobakery.com">morenobakery.com</a></p>
      <p><b>Facebook:</b> <a href="/"></a></p>
   </div>
    <div id="entrysidebar">
