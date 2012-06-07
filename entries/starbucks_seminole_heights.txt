@@ -5,6 +5,9 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
+PRIMARY CATEGORY: Tampa
+CATEGORY: Florida
+CATEGORY: Tampa
 DATE: -0/6-/2012 07: 0:7: AM
 TAGS: 33604,coffee,florida,"seminole heights",starbucks,tampa
 -----
