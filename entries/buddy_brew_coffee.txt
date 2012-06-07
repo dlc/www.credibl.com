@@ -5,8 +5,9 @@ STATUS: Publish
 ALLOW COMMENTS: 0
 CONVERT BREAKS: 0
 ALLOW PINGS: 0
-PRIMARY CATEGORY: Florida
+PRIMARY CATEGORY: Hyde Park
 CATEGORY: Florida
+CATEGORY: Hyde Park
 CATEGORY: Tampa
 DATE: -0/6-/2012 07: 1:2: AM
 TAGS: 33606,"buddy brew",coffee,florida,"hyde park",tampa
@@ -17,7 +18,7 @@ BODY:
   <div class="container">
    <div class="reviewtitle">
     <h0>Buddy Brew Coffee</h0>
-    <h3>Hyde park, Tampa, FL</h3>
+    <h3>Hyde Park, Tampa, FL</h3>
    </div>
    <div class="content">
     <div id="article">
