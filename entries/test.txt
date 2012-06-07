@@ -10,6 +10,7 @@ CATEGORY: cambridge
 CATEGORY: central square
 CATEGORY: massachusetts
 DATE: -0/5-/2012 09: 2:2: PM
+TAGS: business,category,city,neighborhood,state,zip
 -----
 BODY:
 <br />
@@ -67,7 +68,7 @@ BODY:
     <h2>Contact</h2>
      <p><b>Telephone:</b> xxx.xxx.xxxx</p>
      <p><b>Website:</b> <a href="/">foo.com</a></p>
-     <p><b>Facebook:</b> <a href="/">facebook.com/foo</a></p>
+     <p><b>Facebook:</b> <a href="http://facebook.com/">facebook.com/foo</a></p>
   </div>
    <div id="entrysidebar">
       <h2>Reviewed by:</h2>
